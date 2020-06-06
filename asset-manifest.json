@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/justMusic/static/css/main.2f2c62ba.chunk.css",
-    "main.js": "/justMusic/static/js/main.4a0f42f1.chunk.js",
-    "main.js.map": "/justMusic/static/js/main.4a0f42f1.chunk.js.map",
+    "main.css": "/justMusic/static/css/main.46570c3b.chunk.css",
+    "main.js": "/justMusic/static/js/main.f55e95dd.chunk.js",
+    "main.js.map": "/justMusic/static/js/main.f55e95dd.chunk.js.map",
     "runtime-main.js": "/justMusic/static/js/runtime-main.4cf43b2b.js",
     "runtime-main.js.map": "/justMusic/static/js/runtime-main.4cf43b2b.js.map",
-    "static/js/2.d492c581.chunk.js": "/justMusic/static/js/2.d492c581.chunk.js",
-    "static/js/2.d492c581.chunk.js.map": "/justMusic/static/js/2.d492c581.chunk.js.map",
+    "static/js/2.d245b1bb.chunk.js": "/justMusic/static/js/2.d245b1bb.chunk.js",
+    "static/js/2.d245b1bb.chunk.js.map": "/justMusic/static/js/2.d245b1bb.chunk.js.map",
     "index.html": "/justMusic/index.html",
-    "precache-manifest.457a084f3e35de794ca81700d846c331.js": "/justMusic/precache-manifest.457a084f3e35de794ca81700d846c331.js",
+    "precache-manifest.4d6a81b7d2c29250abe5f0e8ad12adb8.js": "/justMusic/precache-manifest.4d6a81b7d2c29250abe5f0e8ad12adb8.js",
     "service-worker.js": "/justMusic/service-worker.js",
-    "static/css/main.2f2c62ba.chunk.css.map": "/justMusic/static/css/main.2f2c62ba.chunk.css.map",
-    "static/js/2.d492c581.chunk.js.LICENSE.txt": "/justMusic/static/js/2.d492c581.chunk.js.LICENSE.txt",
-    "static/media/Homepage.css": "/justMusic/static/media/bg2.9f3d3830.jpg"
+    "static/css/main.46570c3b.chunk.css.map": "/justMusic/static/css/main.46570c3b.chunk.css.map",
+    "static/js/2.d245b1bb.chunk.js.LICENSE.txt": "/justMusic/static/js/2.d245b1bb.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/justMusic/static/media/Logo.17abb5ab.png",
+    "static/media/second.css": "/justMusic/static/media/bg2.9f3d3830.jpg",
+    "static/media/kb.jpg": "/justMusic/static/media/kb.145ecd2b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4cf43b2b.js",
-    "static/js/2.d492c581.chunk.js",
-    "static/css/main.2f2c62ba.chunk.css",
-    "static/js/main.4a0f42f1.chunk.js"
+    "static/js/2.d245b1bb.chunk.js",
+    "static/css/main.46570c3b.chunk.css",
+    "static/js/main.f55e95dd.chunk.js"
   ]
 }
