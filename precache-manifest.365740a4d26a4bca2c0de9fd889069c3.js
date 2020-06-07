@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cc2cfc25fcf1d5b98e15ff6990c343a",
+    "revision": "18076e7bcbb861f177e26b0c8748b201",
     "url": "/justMusic/index.html"
   },
   {
-    "revision": "610e74286a20c2054f87",
-    "url": "/justMusic/static/css/2.123b12fe.chunk.css"
+    "revision": "fe62c6beb8db08a11bff",
+    "url": "/justMusic/static/css/2.1589552c.chunk.css"
   },
   {
-    "revision": "d3c31be00117cbd720ca",
-    "url": "/justMusic/static/css/main.b5fd7ede.chunk.css"
+    "revision": "ffad67d436aee5f09e34",
+    "url": "/justMusic/static/css/main.b209ec41.chunk.css"
   },
   {
-    "revision": "610e74286a20c2054f87",
-    "url": "/justMusic/static/js/2.d8358a77.chunk.js"
+    "revision": "fe62c6beb8db08a11bff",
+    "url": "/justMusic/static/js/2.44ca0092.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/justMusic/static/js/2.d8358a77.chunk.js.LICENSE.txt"
+    "url": "/justMusic/static/js/2.44ca0092.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d3c31be00117cbd720ca",
-    "url": "/justMusic/static/js/main.23ddcd2b.chunk.js"
+    "revision": "ffad67d436aee5f09e34",
+    "url": "/justMusic/static/js/main.47306094.chunk.js"
   },
   {
     "revision": "bd72a3b0bac2af2c22fb",
@@ -110,5 +110,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "145ecd2b8cdc39c7f04b0f9648ad01a1",
     "url": "/justMusic/static/media/kb.145ecd2b.jpg"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/justMusic/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/justMusic/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/justMusic/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/justMusic/static/media/slick.f97e3bbf.svg"
   }
 ]);

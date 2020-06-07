@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/justMusic/static/css/main.b5fd7ede.chunk.css",
-    "main.js": "/justMusic/static/js/main.23ddcd2b.chunk.js",
-    "main.js.map": "/justMusic/static/js/main.23ddcd2b.chunk.js.map",
+    "main.css": "/justMusic/static/css/main.b209ec41.chunk.css",
+    "main.js": "/justMusic/static/js/main.47306094.chunk.js",
+    "main.js.map": "/justMusic/static/js/main.47306094.chunk.js.map",
     "runtime-main.js": "/justMusic/static/js/runtime-main.4cf43b2b.js",
     "runtime-main.js.map": "/justMusic/static/js/runtime-main.4cf43b2b.js.map",
-    "static/css/2.123b12fe.chunk.css": "/justMusic/static/css/2.123b12fe.chunk.css",
-    "static/js/2.d8358a77.chunk.js": "/justMusic/static/js/2.d8358a77.chunk.js",
-    "static/js/2.d8358a77.chunk.js.map": "/justMusic/static/js/2.d8358a77.chunk.js.map",
+    "static/css/2.1589552c.chunk.css": "/justMusic/static/css/2.1589552c.chunk.css",
+    "static/js/2.44ca0092.chunk.js": "/justMusic/static/js/2.44ca0092.chunk.js",
+    "static/js/2.44ca0092.chunk.js.map": "/justMusic/static/js/2.44ca0092.chunk.js.map",
     "index.html": "/justMusic/index.html",
-    "precache-manifest.ed813231136e31486af863e210d0fa7b.js": "/justMusic/precache-manifest.ed813231136e31486af863e210d0fa7b.js",
+    "precache-manifest.365740a4d26a4bca2c0de9fd889069c3.js": "/justMusic/precache-manifest.365740a4d26a4bca2c0de9fd889069c3.js",
     "service-worker.js": "/justMusic/service-worker.js",
-    "static/css/2.123b12fe.chunk.css.map": "/justMusic/static/css/2.123b12fe.chunk.css.map",
-    "static/css/main.b5fd7ede.chunk.css.map": "/justMusic/static/css/main.b5fd7ede.chunk.css.map",
-    "static/js/2.d8358a77.chunk.js.LICENSE.txt": "/justMusic/static/js/2.d8358a77.chunk.js.LICENSE.txt",
+    "static/css/2.1589552c.chunk.css.map": "/justMusic/static/css/2.1589552c.chunk.css.map",
+    "static/css/main.b209ec41.chunk.css.map": "/justMusic/static/css/main.b209ec41.chunk.css.map",
+    "static/js/2.44ca0092.chunk.js.LICENSE.txt": "/justMusic/static/js/2.44ca0092.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/justMusic/static/media/arrow_right.8ef6a08c.svg",
     "static/media/second.css": "/justMusic/static/media/bg2.9f3d3830.jpg",
     "static/media/all.min.css": "/justMusic/static/media/fa-solid-900.ec763292.svg",
-    "static/media/kb.jpg": "/justMusic/static/media/kb.145ecd2b.jpg"
+    "static/media/kb.jpg": "/justMusic/static/media/kb.145ecd2b.jpg",
+    "static/media/slick-theme.css": "/justMusic/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4cf43b2b.js",
-    "static/css/2.123b12fe.chunk.css",
-    "static/js/2.d8358a77.chunk.js",
-    "static/css/main.b5fd7ede.chunk.css",
-    "static/js/main.23ddcd2b.chunk.js"
+    "static/css/2.1589552c.chunk.css",
+    "static/js/2.44ca0092.chunk.js",
+    "static/css/main.b209ec41.chunk.css",
+    "static/js/main.47306094.chunk.js"
   ]
 }
