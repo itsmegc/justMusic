@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/justMusic/static/css/main.918953c5.chunk.css",
-    "main.js": "/justMusic/static/js/main.4b94cb5d.chunk.js",
-    "main.js.map": "/justMusic/static/js/main.4b94cb5d.chunk.js.map",
+    "main.css": "/justMusic/static/css/main.b5fd7ede.chunk.css",
+    "main.js": "/justMusic/static/js/main.23ddcd2b.chunk.js",
+    "main.js.map": "/justMusic/static/js/main.23ddcd2b.chunk.js.map",
     "runtime-main.js": "/justMusic/static/js/runtime-main.4cf43b2b.js",
     "runtime-main.js.map": "/justMusic/static/js/runtime-main.4cf43b2b.js.map",
     "static/css/2.123b12fe.chunk.css": "/justMusic/static/css/2.123b12fe.chunk.css",
     "static/js/2.d8358a77.chunk.js": "/justMusic/static/js/2.d8358a77.chunk.js",
     "static/js/2.d8358a77.chunk.js.map": "/justMusic/static/js/2.d8358a77.chunk.js.map",
     "index.html": "/justMusic/index.html",
-    "precache-manifest.941e6b95d14c40dc57dcb1970e388de6.js": "/justMusic/precache-manifest.941e6b95d14c40dc57dcb1970e388de6.js",
+    "precache-manifest.ed813231136e31486af863e210d0fa7b.js": "/justMusic/precache-manifest.ed813231136e31486af863e210d0fa7b.js",
     "service-worker.js": "/justMusic/service-worker.js",
     "static/css/2.123b12fe.chunk.css.map": "/justMusic/static/css/2.123b12fe.chunk.css.map",
-    "static/css/main.918953c5.chunk.css.map": "/justMusic/static/css/main.918953c5.chunk.css.map",
+    "static/css/main.b5fd7ede.chunk.css.map": "/justMusic/static/css/main.b5fd7ede.chunk.css.map",
     "static/js/2.d8358a77.chunk.js.LICENSE.txt": "/justMusic/static/js/2.d8358a77.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/justMusic/static/media/arrow_right.8ef6a08c.svg",
     "static/media/second.css": "/justMusic/static/media/bg2.9f3d3830.jpg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.4cf43b2b.js",
     "static/css/2.123b12fe.chunk.css",
     "static/js/2.d8358a77.chunk.js",
-    "static/css/main.918953c5.chunk.css",
-    "static/js/main.4b94cb5d.chunk.js"
+    "static/css/main.b5fd7ede.chunk.css",
+    "static/js/main.23ddcd2b.chunk.js"
   ]
 }
