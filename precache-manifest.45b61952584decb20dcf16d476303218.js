@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "357117002b9effbd4f9f0296a732e109",
+    "revision": "ccac088eb1f88449bc8c94a63d6287d9",
     "url": "/justMusic/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/justMusic/static/css/2.1589552c.chunk.css"
   },
   {
-    "revision": "80474ab46c548d5a187d",
+    "revision": "0054218aff49ed1d8b35",
     "url": "/justMusic/static/css/main.9d6b481f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/justMusic/static/js/2.f0a00047.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80474ab46c548d5a187d",
-    "url": "/justMusic/static/js/main.888157a1.chunk.js"
+    "revision": "0054218aff49ed1d8b35",
+    "url": "/justMusic/static/js/main.5c4c18a6.chunk.js"
   },
   {
     "revision": "bd72a3b0bac2af2c22fb",
