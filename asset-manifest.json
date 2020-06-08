@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/justMusic/static/css/main.2d57a5fc.chunk.css",
-    "main.js": "/justMusic/static/js/main.a30af065.chunk.js",
-    "main.js.map": "/justMusic/static/js/main.a30af065.chunk.js.map",
+    "main.css": "/justMusic/static/css/main.9d6b481f.chunk.css",
+    "main.js": "/justMusic/static/js/main.888157a1.chunk.js",
+    "main.js.map": "/justMusic/static/js/main.888157a1.chunk.js.map",
     "runtime-main.js": "/justMusic/static/js/runtime-main.4cf43b2b.js",
     "runtime-main.js.map": "/justMusic/static/js/runtime-main.4cf43b2b.js.map",
     "static/css/2.1589552c.chunk.css": "/justMusic/static/css/2.1589552c.chunk.css",
-    "static/js/2.10a93c99.chunk.js": "/justMusic/static/js/2.10a93c99.chunk.js",
-    "static/js/2.10a93c99.chunk.js.map": "/justMusic/static/js/2.10a93c99.chunk.js.map",
+    "static/js/2.f0a00047.chunk.js": "/justMusic/static/js/2.f0a00047.chunk.js",
+    "static/js/2.f0a00047.chunk.js.map": "/justMusic/static/js/2.f0a00047.chunk.js.map",
     "index.html": "/justMusic/index.html",
-    "precache-manifest.1ebe449d289a9cd1264a36479602f6ed.js": "/justMusic/precache-manifest.1ebe449d289a9cd1264a36479602f6ed.js",
+    "precache-manifest.87cf069fc734c7a119ba546d972cfb9c.js": "/justMusic/precache-manifest.87cf069fc734c7a119ba546d972cfb9c.js",
     "service-worker.js": "/justMusic/service-worker.js",
     "static/css/2.1589552c.chunk.css.map": "/justMusic/static/css/2.1589552c.chunk.css.map",
-    "static/css/main.2d57a5fc.chunk.css.map": "/justMusic/static/css/main.2d57a5fc.chunk.css.map",
-    "static/js/2.10a93c99.chunk.js.LICENSE.txt": "/justMusic/static/js/2.10a93c99.chunk.js.LICENSE.txt",
+    "static/css/main.9d6b481f.chunk.css.map": "/justMusic/static/css/main.9d6b481f.chunk.css.map",
+    "static/js/2.f0a00047.chunk.js.LICENSE.txt": "/justMusic/static/js/2.f0a00047.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/justMusic/static/media/Logo.17abb5ab.png",
     "static/media/mdb.css": "/justMusic/static/media/arrow_right.8ef6a08c.svg",
     "static/media/bg1.jpg": "/justMusic/static/media/bg1.454d3610.jpg",
     "static/media/bg2.jpg": "/justMusic/static/media/bg2.9f3d3830.jpg",
@@ -26,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.4cf43b2b.js",
     "static/css/2.1589552c.chunk.css",
-    "static/js/2.10a93c99.chunk.js",
-    "static/css/main.2d57a5fc.chunk.css",
-    "static/js/main.a30af065.chunk.js"
+    "static/js/2.f0a00047.chunk.js",
+    "static/css/main.9d6b481f.chunk.css",
+    "static/js/main.888157a1.chunk.js"
   ]
 }

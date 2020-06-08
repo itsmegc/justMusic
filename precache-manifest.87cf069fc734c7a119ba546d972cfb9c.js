@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62a9fd013a94dc35afa1fe180233247b",
+    "revision": "357117002b9effbd4f9f0296a732e109",
     "url": "/justMusic/index.html"
   },
   {
-    "revision": "a55f42ae3d648a8e0d95",
+    "revision": "e83f73ea814929a2d579",
     "url": "/justMusic/static/css/2.1589552c.chunk.css"
   },
   {
-    "revision": "7dd87496a3a79e004fec",
-    "url": "/justMusic/static/css/main.2d57a5fc.chunk.css"
+    "revision": "80474ab46c548d5a187d",
+    "url": "/justMusic/static/css/main.9d6b481f.chunk.css"
   },
   {
-    "revision": "a55f42ae3d648a8e0d95",
-    "url": "/justMusic/static/js/2.10a93c99.chunk.js"
+    "revision": "e83f73ea814929a2d579",
+    "url": "/justMusic/static/js/2.f0a00047.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/justMusic/static/js/2.10a93c99.chunk.js.LICENSE.txt"
+    "url": "/justMusic/static/js/2.f0a00047.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7dd87496a3a79e004fec",
-    "url": "/justMusic/static/js/main.a30af065.chunk.js"
+    "revision": "80474ab46c548d5a187d",
+    "url": "/justMusic/static/js/main.888157a1.chunk.js"
   },
   {
     "revision": "bd72a3b0bac2af2c22fb",
     "url": "/justMusic/static/js/runtime-main.4cf43b2b.js"
+  },
+  {
+    "revision": "17abb5aba525eef19e81dd6d711e0b4f",
+    "url": "/justMusic/static/media/Logo.17abb5ab.png"
   },
   {
     "revision": "11911410dca2de148f30954eb2fd5eab",
