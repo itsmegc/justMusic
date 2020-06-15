@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/justMusic/static/css/main.860294cb.chunk.css",
-    "main.js": "/justMusic/static/js/main.0d29c621.chunk.js",
-    "main.js.map": "/justMusic/static/js/main.0d29c621.chunk.js.map",
+    "main.js": "/justMusic/static/js/main.cc3408ef.chunk.js",
+    "main.js.map": "/justMusic/static/js/main.cc3408ef.chunk.js.map",
     "runtime-main.js": "/justMusic/static/js/runtime-main.4cf43b2b.js",
     "runtime-main.js.map": "/justMusic/static/js/runtime-main.4cf43b2b.js.map",
     "static/css/2.1d90460b.chunk.css": "/justMusic/static/css/2.1d90460b.chunk.css",
     "static/js/2.f389ac08.chunk.js": "/justMusic/static/js/2.f389ac08.chunk.js",
     "static/js/2.f389ac08.chunk.js.map": "/justMusic/static/js/2.f389ac08.chunk.js.map",
     "index.html": "/justMusic/index.html",
-    "precache-manifest.65963a588183383630b3837ecac72232.js": "/justMusic/precache-manifest.65963a588183383630b3837ecac72232.js",
+    "precache-manifest.ef0f6738f9a4f508d268a369026616a0.js": "/justMusic/precache-manifest.ef0f6738f9a4f508d268a369026616a0.js",
     "service-worker.js": "/justMusic/service-worker.js",
     "static/css/2.1d90460b.chunk.css.map": "/justMusic/static/css/2.1d90460b.chunk.css.map",
     "static/css/main.860294cb.chunk.css.map": "/justMusic/static/css/main.860294cb.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.1d90460b.chunk.css",
     "static/js/2.f389ac08.chunk.js",
     "static/css/main.860294cb.chunk.css",
-    "static/js/main.0d29c621.chunk.js"
+    "static/js/main.cc3408ef.chunk.js"
   ]
 }
